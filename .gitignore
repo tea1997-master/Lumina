@@ -20,3 +20,6 @@ test-results/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# AI
+./docs/ai/
