@@ -1,0 +1,7 @@
+# Backend & Application
+pywebview>=5.0
+pyinstaller>=6.0
+
+# Evaluation & Testing
+pytest>=8.0
+playwright>=1.40
